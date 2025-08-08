@@ -26,5 +26,68 @@
     "category": "Family",
     "status": "pending",
     "timestamp": "2025-06-27T10:46:42.445Z"
+  },
+  {
+    "id": "task-1752220257488",
+    "title": "Buy groceries",
+    "category": "home",
+    "status": "pending",
+    "timestamp": "2025-07-11T07:50:57.489Z"
+  },
+  {
+    "id": "task-1752220292794",
+    "title": "buy lamp",
+    "category": "home",
+    "status": "pending",
+    "timestamp": "2025-07-11T07:51:32.794Z"
+  },
+  {
+    "id": "task-1752220325687",
+    "title": "DO homework",
+    "category": "study",
+    "status": "pending",
+    "timestamp": "2025-07-11T07:52:05.687Z"
+  },
+  {
+    "id": "task-1752220336302",
+    "title": "prepare for presentation",
+    "category": "study",
+    "status": "pending",
+    "timestamp": "2025-07-11T07:52:16.302Z"
+  },
+  {
+    "id": "task-1752220370532",
+    "title": "go practise for football",
+    "category": "sports",
+    "status": "pending",
+    "timestamp": "2025-07-11T07:52:50.532Z"
+  },
+  {
+    "id": "task-1752220398978",
+    "title": "buy choclates",
+    "category": "friends",
+    "status": "pending",
+    "timestamp": "2025-07-11T07:53:18.978Z"
+  },
+  {
+    "id": "task-1752220669055",
+    "title": "Learn Node.js",
+    "category": "learning",
+    "status": "pending",
+    "timestamp": "2025-07-11T07:57:49.055Z"
+  },
+  {
+    "id": "task-1752220869186",
+    "title": "Learn Node.js",
+    "category": "learning",
+    "status": "pending",
+    "timestamp": "2025-07-11T08:01:09.187Z"
+  },
+  {
+    "id": "task-1752221196389",
+    "title": "Learn Node.js",
+    "category": "learning",
+    "status": "pending",
+    "timestamp": "2025-07-11T08:06:36.389Z"
   }
 ]
