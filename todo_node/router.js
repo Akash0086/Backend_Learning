@@ -66,7 +66,7 @@ export const router = (req, res) => {
       const categoryFilter = url.searchParams.get('category')?.trim().toLowerCase();
       const searchQuery = url.searchParams.get('search')?.trim().toLowerCase();
 
-      let todos = [];
+      let todos = [];x
 
       if (existsSync(todoPath)) {
         const data = readFileSync(todoPath, 'utf-8');

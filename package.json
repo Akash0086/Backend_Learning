@@ -10,10 +10,26 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "bcrypt": "^6.0.0",
+    "body-parser": "^2.2.0",
+    "connect-redis": "^9.0.0",
+    "cookie-parser": "^1.4.7",
     "dotenv": "^16.6.1",
     "ejs": "^3.1.10",
     "express": "^5.1.0",
+    "express-session": "^1.18.2",
+    "fetch": "^1.1.0",
+    "googleapis": "^160.0.0",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.15.2",
-    "mysql2": "^3.14.1"
+    "mysql2": "^3.14.1",
+    "redis": "^5.8.2",
+    "session-file-store": "^1.5.0",
+    "tiny-csrf": "^1.1.6",
+    "ws": "^8.18.3",
+    "zod": "^4.1.13"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.5"
   }
 }

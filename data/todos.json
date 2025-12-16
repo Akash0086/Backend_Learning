@@ -89,5 +89,12 @@
     "category": "learning",
     "status": "pending",
     "timestamp": "2025-07-11T08:06:36.389Z"
+  },
+  {
+    "id": "task-1755417684384",
+    "title": "preparing project",
+    "category": "work",
+    "status": "pending",
+    "timestamp": "2025-08-17T08:01:24.384Z"
   }
 ]

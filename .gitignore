@@ -1,2 +1,11 @@
+# Ignore all .env files
+.env
+*.env
+
+# Ignore node modules and logs
 node_modules/
+logs/
+*.log
+
+# Other common ignores
 feedbackApp_express/
